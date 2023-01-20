@@ -1,0 +1,178 @@
+{
+	"Pole1a": {
+		"name": "Pole1a|柱子",
+		"model": "mtrsteamloco:models/Pole1a.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracket1a": {
+		"name": "Bracket1a|正定位 接触网支架",
+		"model": "mtrsteamloco:models/Bracket1a.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracket1a23": {
+		"name": "Bracket1a|正定位 接触网支架(22.5度)",
+		"model": "mtrsteamloco:models/Bracket1a23.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracket1a45": {
+		"name": "Bracket1a|正定位 接触网支架(45度)",
+		"model": "mtrsteamloco:models/Bracket1a45.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracket1a68": {
+		"name": "Bracket1a|正定位 接触网支架(67.5度)",
+		"model": "mtrsteamloco:models/Bracket1a68.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa2a": {
+		"name": "Bracket2a|反定位 接触网支架",
+		"model": "mtrsteamloco:models/Bracket2a.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa2a23": {
+		"name": "Bracket2a|反定位 接触网支架(22.5度)",
+		"model": "mtrsteamloco:models/Bracket2a23.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa2a45": {
+		"name": "Bracket2a|反定位 接触网支架(45度)",
+		"model": "mtrsteamloco:models/Bracket2a45.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa2a68": {
+		"name": "Bracket2a|反定位 接触网支架(67.5度)",
+		"model": "mtrsteamloco:models/Bracket2a68.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa5aL": {
+		"name": "Bracket5aL|正定位 锚段专用 左半部分接触网支架",
+		"model": "mtrsteamloco:models/Bracket5aL.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa5aL23": {
+		"name": "Bracket5aL|正定位 锚段专用 左半部分接触网支架(22.5度)",
+		"model": "mtrsteamloco:models/Bracket5aL23.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa5aL45": {
+		"name": "Bracket5aL|正定位 锚段专用 左半部分接触网支架(45度)",
+		"model": "mtrsteamloco:models/Bracket5aL45.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa5aL68": {
+		"name": "Bracket5aL|正定位 锚段专用 左半部分接触网支架(67.5度)",
+		"model": "mtrsteamloco:models/Bracket5aL68.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa5aR": {
+		"name": "Bracket5aL|正定位 锚段专用 右半部分接触网支架",
+		"model": "mtrsteamloco:models/Bracket5aR.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa8a": {
+		"name": "Bracket8a|样式一 地线支架",
+		"model": "mtrsteamloco:models/Bracket8a.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa8a23": {
+		"name": "Bracket8a|样式一 地线支架(22.5度)",
+		"model": "mtrsteamloco:models/Bracket8a23.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa8a45": {
+		"name": "Bracket8a|样式一 地线支架(45度)",
+		"model": "mtrsteamloco:models/Bracket8a45.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Bracketa8a68": {
+		"name": "Bracket8a|样式一 地线支架(67.5度)",
+		"model": "mtrsteamloco:models/Bracket8a68.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Compensator3a": {
+		"name": "Compensator3a|道岔接触网 棘轮补偿装置",
+		"model": "mtrsteamloco:models/Compensator3a.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Compensator3a23": {
+		"name": "Compensator3a|道岔接触网 棘轮补偿装置(22.5度)",
+		"model": "mtrsteamloco:models/Compensator3a23.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Compensator3a45": {
+		"name": "Compensator3a|道岔接触网 棘轮补偿装置(45度)",
+		"model": "mtrsteamloco:models/Compensator3a45.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	},
+	"Compensator3a68": {
+		"name": "Compensator3a|道岔接触网 棘轮补偿装置(67.5度)",
+		"model": "mtrsteamloco:models/Compensator3a68.obj",
+		"translation": [0, 0, 0],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"mirror": [false, false, false]
+	}
+}
